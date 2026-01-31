@@ -1,4 +1,4 @@
-# 📊 End-to-End Data Analytics Project
+# End-to-End Data Analytics Project
 
 ## 📌 Project Overview
 This project represents a **complete, industry-standard, end-to-end data analytics workflow**, designed to mirror the real-world responsibilities of professional data analysts in modern business environments.
@@ -27,8 +27,6 @@ To analyze customer behavior and transaction data in order to:
 - **SQL**: Business analysis, transaction simulation, and insight extraction  
 - **Power BI**: Interactive dashboards and data visualization  
 - **Excel / CSV**: Raw data storage and intermediate processing  
-- **Presentation Tools**: Business reporting and stakeholder communication  
-
 ---
 ## 🔄 Project Workflow
 
@@ -40,6 +38,3 @@ Executed SQL queries on transactional data to extract insights on customer behav
 
 3️⃣ **Visualization (Power BI)**  
 Built an interactive dashboard to highlight key trends, KPIs, and business insights.
-
-4️⃣ **Reporting & Presentation**  
-Summarized findings and delivered actionable recommendations for stakeholders.
